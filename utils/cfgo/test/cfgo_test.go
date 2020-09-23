@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/sion96994/go/utils/cfgo"
-	"gitlab.xiaoenai.net/xserver/utils/cfgo/test/m1"
-	_ "gitlab.xiaoenai.net/xserver/utils/cfgo/test/m2"
+	"github.com/sion96994/go/utils/cfgo/test/m1"
+	_ "github.com/sion96994/go/utils/cfgo/test/m2"
 )
 
 type T struct {
