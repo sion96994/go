@@ -1,0 +1,10 @@
+github.com/sion96994/go v0.0.0-20200609090947-c53f9c239454 h1:NWUABQFs+CQYICUT1d2NDYaRbdzDzl7HZO9HBvizYe4=
+github.com/sion96994/go v0.0.0-20200609090947-c53f9c239454/go.mod h1:x7z4+oFQULyZjDILTJbGZgloni1GOQ/rje1Wbed7wAI=
+github.com/sion96994/go v0.0.0-20200923082345-cc4165083eea h1:5oD28HzYESv/Pl00H6EQRfbTMdyaLILZC8nq3N4zr84=
+github.com/sion96994/go/utils v0.0.0-20200923081253-5741c4a2ecaa h1:4ZepZdUdsR7nhQqwEOGOI8KPm5OdfnYPL1fzY4Lq948=
+github.com/sion96994/go/utils v0.0.0-20200923081253-5741c4a2ecaa/go.mod h1:Ttwu/1AhdGoxbSe+Lq66snIw07TLKC16AF6H+FM7r0c=
+github.com/sion96994/go/utils v0.0.0-20200923082345-cc4165083eea h1:zXZYtsDSfcOAN1LcfQ1Nmxi0Jr771TkKOBQGxgamFVw=
+github.com/sion96994/go/utils v0.0.0-20200923082345-cc4165083eea/go.mod h1:bqqfujFQJoMzi0q1rRjdvUlASH4hXLSAAo/+hiSpA+Y=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.3.0 h1:clyUAQHOM3G0M3f5vQj7LuJrETvjVot3Z5el9nffUtU=
+gopkg.in/yaml.v2 v2.3.0/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
