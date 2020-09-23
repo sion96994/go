@@ -1,4 +1,4 @@
-module github.com/sion96994/go/util
+module github.com/sion96994/go/utils
 
 go 1.13
 
