@@ -12,6 +12,8 @@ import (
 	"sort"
 	"strings"
 	"sync"
+
+	"gopkg.in/yaml.v2"
 )
 
 var (

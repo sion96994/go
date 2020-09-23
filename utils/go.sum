@@ -1,2 +1,5 @@
 github.com/sion96994/go v0.0.0-20200609090947-c53f9c239454 h1:NWUABQFs+CQYICUT1d2NDYaRbdzDzl7HZO9HBvizYe4=
 github.com/sion96994/go v0.0.0-20200609090947-c53f9c239454/go.mod h1:x7z4+oFQULyZjDILTJbGZgloni1GOQ/rje1Wbed7wAI=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.3.0 h1:clyUAQHOM3G0M3f5vQj7LuJrETvjVot3Z5el9nffUtU=
+gopkg.in/yaml.v2 v2.3.0/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
